@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DeveloperTest</string>
+    <string name="todo">todo</string>
+    <string name="search_here">Search here</string>
+    <string name="nothing_found">Nothing Found...Try Some Other Name</string>
+    <string name="initial_msg">Write Movie Name Into Search Bar...</string>
+    <string name="ok">Ok</string>
+    <string name="mini_length_msg">Enter at least three character word</string>
+</resources>
